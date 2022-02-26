@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Sukhman_Lidder_ConsultantsdB" Class="CBDSDataClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=&quot;C:\Users\sukhm\OneDrive\Desktop\usb backup\database managment\CBDS\Sukhman_Lidder_ConsultantsdB.mdf&quot;;Integrated Security=True;Connect Timeout=30" SettingsObjectName="CBDS.Properties.Settings" SettingsPropertyName="Setting" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.Sproc_FindNextMedicalCentreNo" Method="Sproc_FindNextMedicalCentreNo">
+    <ElementType Name="Sproc_FindNextMedicalCentreNoResult">
+      <Column Name="ssl_MedicalCentreNo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Sproc_FindMedicalGroup" Method="Sproc_FindMedicalGroup">
+    <Parameter Name="ssl_MedicalGroupCode" Type="System.String" DbType="Char(3)" />
+    <ElementType Name="Sproc_FindMedicalGroupResult">
+      <Column Name="ssl_Name" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.sproc_P2428097_tblPracticeGpNo_GetDaysPerWeek" Method="sproc_P2428097_tblPracticeGpNo_GetDaysPerWeek">
+    <Parameter Name="ssl_PracticeGpNO" Type="System.Int32" DbType="Int" />
+    <ElementType Name="sproc_P2428097_tblPracticeGpNo_GetDaysPerWeekResult">
+      <Column Name="ssl_DaysPerWeek" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

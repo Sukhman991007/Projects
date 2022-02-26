@@ -1,0 +1,299 @@
+D:\database managment\DMUBox\DMUBox\bin\Debug\DMUBox.pdb
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.csprojAssemblyReference.cache
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.csproj.CoreCompileInputs.cache
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.pdb
+E:\database managment\DMUBox\DMUBox\bin\Debug\DMUBox.pdb
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.csprojAssemblyReference.cache
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.FrmBox.resources
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.csproj.GenerateResource.cache
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.csproj.CoreCompileInputs.cache
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.pdb
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.Properties.Resources.resources
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.FrmBox.resources
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmMenu.resources
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.Properties.Resources.resources
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.csproj.GenerateResource.cache
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmFindStudent.resources
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmStudent.resources
+D:\database managment\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\EnvDTE.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\stdole.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.MSXML.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmStudentReport.resources
+D:\database managment\DMUBox\DMUBox\obj\Debug\RdlCompile.cache
+D:\database managment\DMUBox\DMUBox\obj\Debug\RdlCompile.compiled
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.csproj.CopyComplete
+D:\database managment\DMUBox\DMUBox\bin\Debug\DMUBox.exe.config
+D:\database managment\DMUBox\DMUBox\bin\Debug\DMUBox.exe
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.exe
+E:\database managment\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\DMUBox.exe.config
+E:\database managment\DMUBox\DMUBox\bin\Debug\DMUBox.exe
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\EnvDTE.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\stdole.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\Microsoft.MSXML.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmFindStudent.resources
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmHallStudentReport.resources
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmMenu.resources
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmStudent.resources
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmStudentReport.resources
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.csproj.CopyComplete
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.exe
+D:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmHallStudentReport.resources
+E:\database managment\DMUBox\DMUBox\obj\Debug\RdlCompile.cache
+E:\database managment\DMUBox\DMUBox\obj\Debug\RdlCompile.compiled
+E:\database managment\DMUBox\DMUBox\obj\Debug\DMUBox.frmStudent01.resources
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\DMUBox.exe.config
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\DMUBox.exe
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\DMUBox.pdb
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\EnvDTE.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\stdole.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\Microsoft.MSXML.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.frmBox.resources
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.frmFindStudent.resources
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.frmHallStudentReport.resources
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.frmMenu.resources
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.frmStudent.resources
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.frmStudentReport.resources
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.Properties.Resources.resources
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.csproj.GenerateResource.cache
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\RdlCompile.cache
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\RdlCompile.compiled
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.csproj.CoreCompileInputs.cache
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.csproj.CopyComplete
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.exe
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.pdb
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\DMUBox.exe.manifest
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\bin\Debug\DMUBox.application
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.csprojAssemblyReference.cache
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.exe.manifest
+C:\Users\sukhm\Desktop\DMUBox\DMUBox\obj\Debug\DMUBox.application
