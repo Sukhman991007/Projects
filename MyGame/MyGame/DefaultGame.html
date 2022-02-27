@@ -1,0 +1,282 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Console Key event handler</title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=Y5O2VKPliiA6B75sQKK_d35lJv_HEO-i6Ze7Q8D-IFEGX0t0GNXD-VR-sjJhFCd2QLty_bkqSNA7aUz-7C_SWf4hBb_oXtG0qyvbwPISBNcd-e6teWLnUm3YJBBw7K93AwStWGf7yXWY2On6ASvlcaNTzCTxirlQP-ZYHT4eTXFYt4J23V7zxZwInHOscOQpj1KN3y8Mat5ji4rHYal06Q" charset="UTF-8"></script></head>
+<body>
+	<h2>Space overtake</h2>
+	<div class="description">
+		<font style="color:red">GAME INSTRUCTIONS</font><br /><br />
+		To restart the game click on this button<button class="btn" onClick="window.location.reload();">Restart</button><br /><br />
+		To move your sprite use the arrow keys on the keyboard<br /><br />
+		To stop your sprite press the 'S' key on the keyboard <br /><br />
+		To win the game you need to safely land on the white landing pad <br /><br />
+		If you touch any of your enemies you will loose the game <br /><br />
+		Do not touch the green part of the pad you will loose<br /><br />
+		Check out  the red coin for an easter egg<br /><br />
+		The game can be played and restarted as many times you want<br /><br />
+		<font style="color:red">ENJOY</font>
+
+	</div>
+	<canvas id="canvas" width="700" height="700"></canvas>
+	<script src="sprites/RocketShip.js"></script>
+	<script src="sprites/enemy.js"></script>
+	<script src="sprites/Squid.js"></script>
+	<script src="sprites/LandingPad.js"></script>
+	<script src="sprites/Star.js"></script>
+	<script src="sprites/MosterPad.js"></script>
+	<script src="sprites/SquareEasterEgg.js"></script>
+	<script src="Classes/acceleration.js"></script>
+	<script src="Classes/Collection.js"></script>
+	<script src="Classes/collision.js"></script>
+	<script src="Classes/keynote.js"></script>
+
+	<script>
+		//function that will load when the page loads
+		window.onload = function () {
+			var canvas = document.getElementById('canvas'),
+				context = canvas.getContext('2d'),
+				//rocket object
+				rocket = new Rocket();
+
+			//acceleration object
+			acceleration = new Accelerate(0.001);
+			//squid object
+			squid = new Squid();
+			//enemy object
+			enemy = new Enemy();
+			//collision object
+			collision = new Collision();
+			//laniding pad object
+			pad = new Pad();
+			//object for the moster pad
+			monsterPad = new MonsterPad();
+			//position for the square
+			square = new Square();
+			//position of the enemy
+			enemy.X = 500;
+			enemy.Y = 500;
+			//position the squid at 80,40 on the canvas
+			squid.X = 80;
+			squid.Y = 40;
+			//position of the pad
+			pad.X = 570;
+			pad.Y = 630;
+			//position for the moster pad
+			monsterPad.X = 570;
+			monsterPad.Y = 640;
+			//position for the square
+			square.X = 40;
+			square.Y = 670;
+            //if the user presses h on the keyboard
+            if (event.keycode == keycode.S) {
+                console.log("Stop ship");
+                acceleration.Halt();
+                //acceleration.VThrust(.009);
+            }
+			//function for the movement of the rocket
+			function KeyboardEventHandler(event) {
+				//if the user presses the up key on the keyboard
+				if (event.keyCode == keycode.UP) {
+					console.log("Activate thrust");
+					acceleration.Halt();
+					acceleration.VThrust(.009);
+				}
+				//if the user presses the left key on hte keyboard
+				if (event.keyCode == keycode.LEFT) {
+					console.log("Go left");
+					acceleration.Halt();
+					acceleration.HThrust(.009);
+				}
+				//if hte user presse the right key on the keyboard
+				if (event.keyCode == keycode.RIGHT) {
+					console.log("Go right");
+					acceleration.Halt();
+					acceleration.HThrust(-.009);
+				}
+				//if the user presses the down key on the keyboard
+				if (event.keyCode == keycode.DOWN) {
+					console.log("Stop thrust");
+					acceleration.Halt();
+					acceleration.VThrust(-.009);
+				}
+				
+			}
+
+			window.addEventListener('keydown', KeyboardEventHandler, false);
+			//object for the collection class
+			stars = new Collection(),
+				//the numbers of star to display
+				StarCount = 300;
+			
+
+			//used to initialise the collection
+			function InitStars() {
+				//var for loop counter
+				var count = 0
+				//wile counter less than star count
+				while (count < StarCount) {
+                    //create a new star
+                    star = new Star();
+					//add the star to the collection
+					stars.add(star);
+
+					//inc the counter
+					count++;
+				}
+			}
+
+
+			//used to draw the stars collection
+			function DrawStars() {
+				//var for loop counter
+				var count = 0
+				//wile counter less than star count
+				while (count < StarCount) {
+					//draw star at index
+					stars.item(count).draw(context);
+					//inc the counter
+					count + count++;
+				}
+			}
+
+			//used to move the stars
+			function MoveStars() {
+				//var for loop counter
+				var count = 0
+				//wile counter less than star count
+				while (count < StarCount) {
+					//move the star at the index
+					stars.item(count).move();
+					//inc the counter
+					count++;
+				}
+			}
+			//initialize stars
+			InitStars();
+
+			(function drawFrame() {
+
+				context.clearRect(0, 0, canvas.width, canvas.height);
+				//increase the y posision by the y velocity
+				squid.Y += squid.VY;
+				//increase the x position by the x velocity
+				squid.X += squid.VX;
+				//if the squid hits the canvas top bottom edge
+				if (squid.Y - squid.Size < 0 | squid.Y + squid.Size > canvas.height) {
+					squid.VY = -squid.VY;
+				}
+				//if the squid hits the canvas left or right
+				if (squid.X - squid.Size < 0 | squid.X + squid.Size > canvas.width) {
+					//reverse the x velocity
+					squid.VX = -squid.VX;
+				}
+
+				//increase the y position by the y velocity
+				enemy.Y += enemy.VY;
+				//increase the x position by the x velocity
+				enemy.X += enemy.VX;
+				//if the enemy hits the canvas top bottom edge
+				if (enemy.Y - enemy.Size < 0 | enemy.Y + enemy.Size > canvas.height) {
+					enemy.VY = -enemy.VY;
+				}
+				//if the enemy hits the canvas left or right
+				if (enemy.X - enemy.Size < 0 | enemy.X + enemy.Size > canvas.width) {
+					//reverse the x velocity
+					enemy.VX = -enemy.VX;
+				}
+                //draw the suqare
+                square.draw(context);
+                //draw the stars
+                DrawStars();
+                //move the stars
+                MoveStars();
+				//draw moster pad
+				monsterPad.draw(context);
+				//draw the landing pad
+				pad.draw(context);
+				//draw enemy
+				enemy.draw(context);
+				//draw ship
+				rocket.draw(context);
+				//move the ship
+				rocket.move();
+				//acceleration
+				rocket.accelerate(acceleration);
+				//rocket and easter eg collection
+				if (collision.Overlapping(rocket, square)) {
+					//change the value of pitures in the suqare class
+					square.reload;
+                    console.log("EASTER EGG COLLECTED!!!")
+                    
+
+                }
+				//ship and enemy crashing
+				if (collision.Overlapping(rocket, enemy)) {
+					//allow the user to restart the game after losing
+                    var over = confirm("Game over, do you want to restart the game?");
+                    if (over == true) {
+                        window.location.reload();
+                    }
+					rocket.Halt();
+					console.log("Crash!!!");
+				}
+				//ship and squid crashing
+				if (collision.Overlapping(rocket, squid)) {
+                    //allow the user to restart the game after losing					
+                    var over = confirm("Game over, do you want to restart the game?");
+                    if (over == true) {
+                        window.location.reload();
+                    }
+             		rocket.Halt();
+                    console.log("Crash!!!");
+                    
+				}
+				//ship and mosterpad crashing
+				if (collision.Overlapping(rocket, monsterPad)) {
+                    //allow the user to restart the game after losing					
+                    var over = confirm("Game over, do you want to restart the game?");
+                    if (over == true) {
+                        window.location.reload();
+                    }
+					rocket.Halt();
+					console.log("Crash!!!");
+				}
+				if (collision.Overlapping(rocket, pad)) {
+					//thye user completed the game allow the user to restart the game
+                    var over = confirm("Game completed Do you want to restart the game?");
+					if (over == true) {
+						//reload the game
+                        window.location.reload();
+                    }
+					rocket.Halt();
+					console.log("Victory");
+                    
+
+				}
+				
+				//draw the squid
+				squid.draw(context);
+				//draw all the frames
+				window.requestAnimationFrame(drawFrame);
+			})();
+            //function for the timer
+            var timer = 30;
+            var interval = setInterval(function () {
+                document.getElementById('timer').innerHTML = timer--;
+                if (timer >= 0) {
+                    var over = confirm("Time's up!");
+                    if (over == true) {
+                        window.location.reload();
+                    }
+                    rocket.halt();
+                }
+            }, 7200)// thousands milliseconds
+			interval;
+		}
+		
+	</script>
+
+</body>
+</html>

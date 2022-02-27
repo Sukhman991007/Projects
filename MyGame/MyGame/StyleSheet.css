@@ -1,0 +1,44 @@
+﻿body {
+    background-color: grey;
+}
+#canvas
+{
+    background-color: black;
+}
+
+.description{
+    position: fixed;
+    right: 100px;
+    color: darkblue;
+    font-size: 25px;
+    font-family:monospace;
+    font-weight:900;
+  
+}
+.btn {
+    position: static;
+    right: 50px;
+    width: 90px;
+    height: 40px;
+    color: black;
+    background-color: lightblue;
+    border: dashed;
+    border-color: darkblue;
+    font-weight: 900;
+}
+h1{
+    font-size:60px;
+}
+h2 {
+    font-family: Verdana, sans-serif, serif;
+    background-image: url(../galaxy.jpg);
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    -webkit-font-smoothing: antialiased;
+    font-size: 65px;
+    color: white;
+}
